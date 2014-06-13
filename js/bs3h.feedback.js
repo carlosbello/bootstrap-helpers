@@ -22,8 +22,8 @@
         }
     };
         
-    if (typeof define === "function" && define.amd) {
-        define("./bs3h.feedback", [], function () { return bs3h.Feedback; });
+    if (typeof define === 'function' && define.amd) {
+        define(function () { return bs3h.Feedback; });
     }
 
 })(window.jQuery);
