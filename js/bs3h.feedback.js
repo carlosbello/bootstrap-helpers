@@ -7,7 +7,7 @@
     bs3h.Feedback = {
         SHORT: 3000,
         LONG: 6000,
-        ALERT: '',
+        ALERT: 'alert-warning',
         DANGER: 'alert-danger',
         SUCCESS: 'alert-success',
         INFO: 'alert-info',
